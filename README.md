@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeet113&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeet113" /> </p>
 
-- 🔭 I’m currently working on a website called Hub-Unit. this website is helpful for our next generation developer student. **Hub-Unit**
+- 🔭 I’m currently working on a website called ByteBazar. Welcome to Byte Bazar, where your IT dreams take flight! Dive into a world of limitless possibilities with our trifecta of offerings: rental delights, pristine new gems, and carefully curated second-hand treasures. Plus, don't fret if your tech falters – our repair wizards are here to save the day. Experience the epitome of convenience through our intuitively designed website, your gateway to a tech utopia boasting everything from laptops to cameras, hard disks to CPUs, and beyond. **ByteBazar**
 
 - 🌱 I’m currently learning **aws developement**
 
