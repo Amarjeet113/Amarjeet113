@@ -1,5 +1,5 @@
 [![MasterHead](https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg)](https://amarjeetkumar.io)
-<h1 align="center">Hi 👋, I'm Amarjeet Kumar</h1> 
+<h1 align="center">Hi 👋, I'm Amarjeet Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.8MxIDc7j38f-x8-sCTVMEwHaGE?rs=1&pid=ImgDetMain">
 
